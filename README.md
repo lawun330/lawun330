@@ -1,11 +1,11 @@
-<h1>Greetings 👋 from La Wun Nannda</h1>
+<h1 align="center">Greetings 👋 from La Wun Nannda</h1>
+<h3 align="center">Exploring different fields of CS</h3>
 
-- 🔭 I’m currently working on a collaborated project with Burmese AI
-- 🌱 I’m currently learning **Machine Learning and Quantum Computing**
+- 🌱 I’m currently learning **Machine Learning, Quantum Computing, DSA, and Computer Science**
 - 👯 I’m looking to collaborate on projects related to **Data and Humanitarian Crisis**
 - 🤔 I’m looking for help with understanding **DSA and SWE concepts**
 - 💬 Ask me about **Arduino, Python, and Operating System**
-- 📫 How to reach me: **lawun330@gmail.com**
+- 📫 How to reach me: <u>lawun330@gmail.com</u>
 - ⚡ Fun fact: I attended Electronics Engineering for a year before my first electronics project ignited my passion for coding.
 
 <!--
