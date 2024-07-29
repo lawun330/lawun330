@@ -42,23 +42,21 @@
 </div>
 
 ## Connect Me With
-<div class="media">
-  <a href="https://discord.com/" >
-    <img src="https://skillicons.dev/icons?i=discord"/>@_kerosene_m
+<div>
+  <a href="https://discord.com/">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+    <p>@_kerosene_m</p>
   </a>
   <a href="https://mail.google.com/">
-    <img src="https://skillicons.dev/icons?i=gmail"/>lawun330@gmail.com
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <p>lawun330@gmail.com</p>
   </a>
   <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>La Wun Nannda
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <p>La Wun Nannda</p>
   </a>
 </div>
 
-.media {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 <!--
 **lawun330/lawun330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
