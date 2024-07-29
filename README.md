@@ -20,41 +20,47 @@
 - I love to get a career that involves helping people with what I know.
 
 ## What I know
-### Most-used Languages & Libraries
+<p>Most-used Languages & Libraries</p>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,py"/>
   </a>
 </div>
 
-### Exposed Languages & Libraries
+<p>Exposed Languages & Libraries</p>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,matlab,octave,opencv,p5js,perl,sklearn,tensorflow"/>
   </a>
 </div>
 
-### Tools
+<p>Tools</p>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,eclipse,git,github,gitlab,powershell,replit,sublime"/>
   </a>
 </div>
 
-## Connect Me With
+## Connect Me
 <div>
-  <a href="https://discord.com/">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-    <p>@_kerosene_m</p>
-  </a>
-  <a href="https://mail.google.com/">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-    <p>lawun330@gmail.com</p>
-  </a>
-  <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-    <p>La Wun Nannda</p>
-  </a>
+  <div>
+    <a href="https://discord.com/">
+      <img src="https://skillicons.dev/icons?i=discord"/>
+      <p>@_kerosene_m</p>
+    </a>
+  </div>
+  <div>
+    <a href="https://mail.google.com/">
+      <img src="https://skillicons.dev/icons?i=gmail"/>
+      <p>lawun330@gmail.com</p>
+    </a>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
+      <img src="https://skillicons.dev/icons?i=linkedin"/>
+      <p>La Wun Nannda</p>
+    </a>
+  </div>
 </div>
 
 <!--
