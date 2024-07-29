@@ -18,6 +18,7 @@
 - Since them, I have been exploring several different fields of Computer Science: from Octave and Machine Learning, to Data Science, Algorithms.
 - I have decided to land my career that involves helping people with what I know.
 
+## What do I know?
 ### Most-used Languages & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
