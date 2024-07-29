@@ -19,7 +19,7 @@
 - I attended the UoPeople in 2022 to become a CS undergrad.
 - I love to get a career that involves helping people with what I know.
 
-## What do I know?
+## What I know
 ### Most-used Languages & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@
   </a>
 </div>
 
-### Media
+## Media
 <div align="center">
   <a href="https://discord.com/">
     <img src="https://skillicons.dev/icons?i=discord"/>
