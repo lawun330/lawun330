@@ -21,14 +21,14 @@
 ### Most-used Languages & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,py,sklearn"/>
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,py"/>
   </a>
 </div>
 
-### Languages & Libraries
+### Exposed Languages & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,matlab,octave,opencv,p5js,perl,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=java,matlab,octave,opencv,p5js,perl,sklearn,tensorflow"/>
   </a>
 </div>
 
