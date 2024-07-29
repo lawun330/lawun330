@@ -1,6 +1,7 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
 <h3 align="center">A General Programmar Exploring different fields of CS</h3>
 
+## Introduction
 - 🌱 I’m currently learning **Machine Learning, Quantum Computing, DSA, and Computer Science**
 - 👯 I’m looking to collaborate on projects related to **Data and Humanitarian Crisis**
 - 🤔 I’m looking for help with understanding **DSA and SWE concepts**
@@ -17,15 +18,26 @@
 - I explored several different fields of Computer Science.
 - I have decided to land my career that involves helping people with the Artificial Intelligence 
 
+### Languages & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=arduino, cpp, css, html, java, octave, opencv, py, sklearn, tensorflow" />
   </a>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=anaconda, arduino, cpp, codepen, css, eclipse, git, js,html,css,wasm)](https://skillicons.dev)
+
+### Tools
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda, atom, codepen, eclipse, git, github, gitlab, replit, sublime" />
+  </a>
+</div>
+
+### Media
+<div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord, gmail, linkedin,docker,c,vim" />
+  </a>
+</div>
 
 <!--
 **lawun330/lawun330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
