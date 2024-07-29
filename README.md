@@ -17,6 +17,16 @@
 - I explored several different fields of Computer Science.
 - I have decided to land my career that involves helping people with the Artificial Intelligence 
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</div>
+[![My Skills](https://skillicons.dev/icons?i=anaconda, arduino, cpp, codepen, css, eclipse, git, js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **lawun330/lawun330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
