@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1>Greetings 👋 from La Wun Nannda</h1>
+
+- 🔭 I’m currently working on a collaborated project with Burmese AI
+- 🌱 I’m currently learning **Machine Learning and Quantum Computing**
+- 👯 I’m looking to collaborate on projects related to **Data and Humanitarian Crisis**
+- 🤔 I’m looking for help with understanding **DSA and SWE concepts**
+- 💬 Ask me about **Arduino, Python, and Operating System**
+- 📫 How to reach me: **lawun330@gmail.com**
+- ⚡ Fun fact: I attended Electronics Engineering for a year before my first electronics project ignited my passion for coding.
 
 <!--
 **lawun330/lawun330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
