@@ -49,7 +49,7 @@
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </div>
 
