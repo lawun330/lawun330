@@ -26,14 +26,14 @@
 </div>
 
 ### Tools
-<div>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,eclipse,git,github,gitlab,replit,sublime"/>
   </a>
 </div>
 
 ### Media
-<div>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin"/>
   </a>
