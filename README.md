@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with understanding **DSA and SWE concepts**
 - 💬 Ask me about **Arduino, Python, and Operating System**
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
-- ⚡ Fun fact: I attended Electronics Engineering for a year before my first Arduino electronics project ignited my passion for coding.
+- ⚡ Fun fact: I like Emojicode, a programming language in emojis.
 
 
 ## My Journey
@@ -21,21 +21,21 @@
 ### Languages & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino, cpp, css, html, java, octave, opencv, py, sklearn, tensorflow" />
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,java,octave,opencv,py,sklearn,tensorflow"/>
   </a>
 </div>
 
 ### Tools
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda, atom, codepen, eclipse, git, github, gitlab, replit, sublime" />
+    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,eclipse,git,github,gitlab,replit,sublime"/>
   </a>
 </div>
 
 ### Media
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord, gmail, linkedin,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin"/>
   </a>
 </div>
 
