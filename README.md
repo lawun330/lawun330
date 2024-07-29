@@ -42,7 +42,13 @@
 
 ### Media
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
     <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin"/>
   </a>
 </div>
