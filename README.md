@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with understanding **DSA and SWE concepts**
 - 💬 Ask me about **Arduino, Python, and Operating System Architecture**
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
-- ⚡ Fun fact: I like Emojicode, a programming language in emojis.
+- ⚡ Fun fact: I like Emojicode, a programming language in emojis
 
 
 ## My Journey
@@ -16,7 +16,7 @@
 - With my team, I built the **Refiller Robot** using the Arduino platform for COVID-19 era, which was later donated to Wai Bar Gi Hospital, Myanmar. We were from the Laboratory of Robotics and Artificial Intelligence (LORA) of Yangon Technological University. The project was interviewed by the [BBC Burmese](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
 - I jumped from Arduino to Python because of my passion in coding in 2020.
 - I explored several different fields of Computer Science.
-- I have decided to land my career that involves helping people with the Artificial Intelligence 
+- I have decided to land my career that involves helping people with what I know.
 
 ### Languages & Libraries
 <div align="center">
