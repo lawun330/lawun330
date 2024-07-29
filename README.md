@@ -11,24 +11,31 @@
 
 
 ## My Journey
-- With my team, I built a bluetooth controlled car with the Arduino platform on my first academic year.
+- With my team, I created a bluetooth-controlled car for the project show on my first academic year.
 - I built several fun projects on my own, using the Arduino platform: smart home, IoT temperature control, door lock system, plant monitoring system, etc.
 - With my team, I built the **Refiller Robot** using the Arduino platform for COVID-19 era, which was later donated to Wai Bar Gi Hospital, Myanmar. We were from the Laboratory of Robotics and Artificial Intelligence (LORA) of Yangon Technological University. The project was interviewed by the [BBC Burmese](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
 - I jumped from Arduino to Python because of my passion in coding in 2020.
-- I explored several different fields of Computer Science.
+- Since them, I have been exploring several different fields of Computer Science: from Octave and Machine Learning, to Data Science, Algorithms.
 - I have decided to land my career that involves helping people with what I know.
+
+### Most-used Languages & Libraries
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,py,sklearn"/>
+  </a>
+</div>
 
 ### Languages & Libraries
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,java,octave,opencv,py,sklearn,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=java,matlab,octave,opencv,p5js,perl,tensorflow"/>
   </a>
 </div>
 
 ### Tools
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,eclipse,git,github,gitlab,replit,sublime"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,eclipse,git,github,gitlab,powershell,replit,sublime"/>
   </a>
 </div>
 
