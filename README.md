@@ -13,7 +13,7 @@
 ## My Journey
 - With my team, I created a bluetooth-controlled car for the project show on my first academic year.
 - I built several fun projects on my own, using the Arduino platform: smart home, IoT temperature control, door lock system, plant monitoring system, etc.
-- With my team, I built the **Refiller Robot** using the Arduino platform for COVID-19 era, which was later donated to Wai Bar Gi Hospital, Myanmar. We were from the Laboratory of Robotics and Artificial Intelligence (LORA) of Yangon Technological University. The project was interviewed by the [BBC Burmese](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
+- With my team, I built the **Refiller Robot** using the Arduino platform for COVID-19 era, which was later donated to Wai Bar Gi Hospital, Myanmar. We were from the Laboratory of Robotics and Artificial Intelligence (LORA) of Yangon Technological University. The project was interviewed by the [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
 - I jumped from Arduino to Python because of my passion in coding in 2020.
 - Since them, I have been exploring several different fields of Computer Science: from Octave and Machine Learning, to Data Science, Algorithms.
 - I attended the UoPeople in 2022 to become a CS undergrad.
