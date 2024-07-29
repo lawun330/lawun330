@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
-<h3 align="center">A General Programmar Exploring Different Fields of CS</h3>
+<h3 align="center">An Undergraduate Exploring Different Fields of CS</h3>
 
 ## Introduction
 - 🌱 I’m currently learning **Machine Learning, Quantum Computing, DSA, and Computer Science**
