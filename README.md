@@ -3,7 +3,7 @@
 
 ## Introduction
 - 🌱 I’m currently learning **Machine Learning, Quantum Computing, DSA, and Computer Science**
-- 👯 I’m looking to collaborate on projects related to **Data and Humanitarian Crisis**
+- 👯 I’m looking to collaborate on projects related to **Data and Humanitarian Issues**
 - 🤔 I’m looking for help with understanding **DSA and SWE concepts**
 - 💬 Ask me about **Arduino, Python, and Operating System Architecture**
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
@@ -20,21 +20,21 @@
 - I love to get a career that involves helping people with what I know.
 
 ## What I know
-<p>Most-used Languages & Libraries</p>
+<p>Most-used Languages & Libraries:</p>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,py"/>
   </a>
 </div>
 
-<p>Exposed Languages & Libraries</p>
+<p>Exposed Languages & Libraries:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,matlab,octave,opencv,p5js,perl,sklearn,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=java,latex,matlab,mysql,octave,opencv,p5js,perl,sklearn,tensorflow"/>
   </a>
 </div>
 
-<p>Tools</p>
+<p>Tools:</p>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,eclipse,git,github,gitlab,powershell,replit,sublime"/>
