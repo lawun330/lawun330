@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I like Emojicode, a programming language in emojis
 
 
-## My Journey
+## My Background
 - With my team, I created a bluetooth-controlled car for the project show on my first academic year.
 - I built several fun projects on my own, using the Arduino platform: smart home, IoT temperature control, door lock system, plant monitoring system, etc.
 - With my team, I built the **Refiller Robot** using the Arduino platform for COVID-19 era, which was later donated to Wai Bar Gi Hospital, Myanmar. We were from the Laboratory of Robotics and Artificial Intelligence (LORA) of Yangon Technological University. The project was interviewed by the [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
