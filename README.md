@@ -1,6 +1,7 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
 <h3 align="center">An Undergraduate Exploring Different Fields of CS</h3>
 
+
 ## Introduction
 - 🌱 I’m currently learning **Machine Learning, Quantum Computing, DSA, and Computer Science**
 - 👯 I’m looking to collaborate on projects related to **Data and Humanitarian Issues**
@@ -40,6 +41,20 @@
     <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,docker,eclipse,git,github,gitlab,powershell,replit,sublime"/>
   </a>
 </div>
+
+
+## My Status
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=donut"/>
+    </td>
+    <td>
+      <img align="center" width="300px" height="215px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
+    </td>
+  </tr>
+</table>
+
 
 ## Connect Me
 <div>
