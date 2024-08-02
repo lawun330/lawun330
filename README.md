@@ -30,7 +30,7 @@
 <p>Exposed Languages & Libraries:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,latex,matlab,mysql,octave,opencv,p5js,perl,sklearn,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=docker,java,latex,matlab,mysql,octave,opencv,p5js,perl,sklearn,tensorflow"/>
   </a>
 </div>
 
