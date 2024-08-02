@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Machine Learning, Quantum Computing, DSA, and Computer Science**
 - 👯 I’m looking to collaborate on projects related to **Data and Humanitarian Issues**
 - 🤔 I’m looking for help with understanding **DSA and SWE concepts**
-- 💬 Ask me about **Arduino, Python, and Operating System Architecture**
+- 💬 Ask me about **Arduino and Python**
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
 - ⚡ Fun fact: I like Emojicode, a programming language in emojis
 
