@@ -30,14 +30,14 @@
 <p>Exposed Languages & Libraries:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,java,latex,matlab,mysql,octave,opencv,p5js,perl,sklearn,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=java,latex,matlab,mysql,octave,opencv,p5js,perl,sklearn,tensorflow"/>
   </a>
 </div>
 
 <p>Tools:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,eclipse,git,github,gitlab,powershell,replit,sublime"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,docker,eclipse,git,github,gitlab,powershell,replit,sublime"/>
   </a>
 </div>
 
