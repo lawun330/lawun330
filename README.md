@@ -47,10 +47,13 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=donut"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=compact"/>
     </td>
     <td>
       <img align="center" width="300px" height="215px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawun330&show_icons=true&theme=highcontrast"/>
     </td>
   </tr>
 </table>
