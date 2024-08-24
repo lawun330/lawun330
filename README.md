@@ -47,22 +47,43 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=lawun330&show_icons=true&theme=highcontrast"/>
     </td>
     <td>
-      <img align="center" width="300px" height="215px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawun330&show_icons=true&theme=highcontrast"/>
+      <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=compact"/>
     </td>
   </tr>
 </table>
 
+  <div align="center">
+      <img width="300px" height="215px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
+  </div>
+
 
 ## Connect Me
-<div align="center">
-  <img src="contact me.svg" width="100%" height="100%" alt="css-in-readme"/>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://discord.com/">
+        <img src="https://skillicons.dev/icons?i=discord"/>
+        <p>@_kerosene_a</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://mail.google.com/">
+        <img src="https://skillicons.dev/icons?i=gmail"/>
+        <p>lawun330@gmail.com</p>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>
+        <p>La Wun Nannda</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 **lawun330/lawun330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
