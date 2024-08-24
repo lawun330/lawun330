@@ -3,31 +3,41 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             
             <style>
-                a {
-                    text-decoration: none;
-                }
-                
-                .medias {
+                .big-container {
                     display: flex;
-                    flex-direction: column;
-                    align-items: center;
+                    flex-direction: row;
+                    align-items: stretch;
+                    justify-content: space-evenly;
+                }
+
+                .small-container {
+                    text-align: center; /* Center-aligns the content within the container */
+                }
+
+                .small-container img {
+                    display: block; /* Ensures the image is treated as a block element */
+                    margin: 0 auto; /* Centers the image horizontally */
+                }
+
+                .small-container p {
+                    margin-top: 10px; /* Adds some space between the image and the text */
                 }
             </style>
 
-            <div class="medias">
-                <div>
+            <div class="big-container">
+                <div class="small-container">
                     <a href="https://discord.com/">
                         <img src="https://skillicons.dev/icons?i=discord"/>
                         <p>@_kerosene_m</p>
                     </a>
                 </div>
-                <div>
+                <div class="small-container">
                     <a href="https://mail.google.com/">
                         <img src="https://skillicons.dev/icons?i=gmail"/>
                         <p>lawun330@gmail.com</p>
                     </a>
                 </div>
-                <div>
+                <div class="small-container">
                     <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
                         <img src="https://skillicons.dev/icons?i=linkedin"/>
                         <p>La Wun Nannda</p>
