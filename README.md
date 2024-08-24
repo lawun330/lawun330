@@ -20,6 +20,7 @@
 - I attended the UoPeople in 2022 to become a CS undergrad.
 - I love to get a career that involves helping people with what I know.
 
+
 ## What I know
 <p>Most-used Languages & Libraries:</p>
 <div align="center">
@@ -47,21 +48,19 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lawun330&show_icons=true&theme=highcontrast"/>
+      <img height="195px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
     </td>
     <td>
-      <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=compact"/>
+      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=compact"/>
     </td>
   </tr>
 </table>
-
-  <div align="center">
-      <img width="300px" height="215px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
-  </div>
+<div align="center">
+      <img width="630px" src="https://github-readme-stats.vercel.app/api?username=lawun330&show_icons=true&theme=highcontrast"/>      
+</div>
 
 
 ## Connect Me
-
 <table align="center">
   <tr>
     <td align="center">
