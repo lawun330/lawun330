@@ -60,25 +60,8 @@
 
 
 ## Connect Me
-<div>
-  <div>
-    <a href="https://discord.com/">
-      <img src="https://skillicons.dev/icons?i=discord"/>
-      <p>@_kerosene_m</p>
-    </a>
-  </div>
-  <div>
-    <a href="https://mail.google.com/">
-      <img src="https://skillicons.dev/icons?i=gmail"/>
-      <p>lawun330@gmail.com</p>
-    </a>
-  </div>
-  <div>
-    <a href="https://www.linkedin.com/in/la-wun-nannda-b047681b5/">
-      <img src="https://skillicons.dev/icons?i=linkedin"/>
-      <p>La Wun Nannda</p>
-    </a>
-  </div>
+<div align="center">
+  <img src="contact me.svg" width="100%" height="100%" alt="css-in-readme">
 </div>
 
 <!--
