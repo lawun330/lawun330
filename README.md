@@ -11,15 +11,12 @@
 - ⚡ Fun fact: I like Emojicode, a programming language in emojis
 
 
-## My Background
-- With my team, I created a bluetooth-controlled car for the project show on my first academic year.
-- I built several fun projects on my own, using the Arduino platform: smart home, IoT temperature control, door lock system, plant monitoring system, etc.
-- With my team, I built the **Refiller Robot** using the Arduino platform for COVID-19 era, which was later donated to Wai Bar Gi Hospital, Myanmar. We were from the Laboratory of Robotics and Artificial Intelligence (LORA) of Yangon Technological University. The project was interviewed by the [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
-- I jumped from Arduino to Python because of my passion in coding in 2020.
-- Since them, I have been exploring several different fields of Computer Science: from Octave and Machine Learning, to Data Science and Quantum Algorithms.
-- I attended the UoPeople in 2022 to become a CS undergrad.
-- I love to get a career that involves helping people with what I know.
-
+## My Background 
+- During my first academic year at Yangon Technological University (YTU), I worked with a team to create a Bluetooth-controlled car for a project show.
+- I've also independently built a variety of projects using the Arduino platform, such as a smart home system, an IoT temperature control with ThingSpeak API, a door lock system, a stopwatch, a plant monitoring system, etc. You can find more details in my **"Arduino-Learning"** repository.
+- Driven by my passion for Arduino, I developed the code for **"Refiller Robot"** during the COVID-19 pandemic, which was later donated to Wai Bar Gi Hospital in Myanmar. My teammates from the Laboratory of Robotics and Artificial Intelligence (LORA) at YTU collaborated on this project, which was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
+- In 2020, my interest in AI led me to transition from Arduino to Python. Since then, I've been delving into various fields of Computer Science including Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms.
+- In 2022, I enrolled in the BSc. program at the University of the People, majoring in Computer Science. Currently, I am involved in several projects and workshops as I strive to work with emerging technologies.
 
 ## What I know
 <p>Most-used Languages & Libraries:</p>
