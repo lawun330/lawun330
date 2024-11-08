@@ -3,15 +3,15 @@
 
 
 ## Introduction
-- 🌱 I’m currently studying **General Computer Science and Basic Quantum Computing Concepts**
-- 👯 I’m looking forward to collaborate on community projects that involves **Data Science**
-- 💬 Ask me about **Arduino and Python**
+- ⭐ I aim to help people with latest technologies.
+- 🌱 I’m currently studying **General Computer Science and Basic Quantum Computing Concepts**.
+- 👯 I want to collaborate on community projects that involves **DS, ML, and QML**.
+- 💬 I have experience in **Arduino and Python**.
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
-- ⚡ Fun fact: I like Emojicode, a programming language in emojis
 
 
 ## My Background 
--In my first year at Yangon Technological University (YTU), I helped build a Bluetooth-controlled car for a project show.
+- In my first year at Yangon Technological University (YTU), I helped build a Bluetooth-controlled car for a project show.
 - I've independently created various Arduino projects, including a smart home system, IoT temperature control with ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details are in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
 - In 2020, I switched from Arduino to Python, and you can follow my progress in my [Basic-Python-Learning](https://github.com/lawun330/Basic-Python-Learning) repository.
@@ -19,25 +19,25 @@
 - Since then, I've been delving into various fields of Computer Science including Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms.
 
 
-## What I know
-<p>Most-used Languages & Libraries:</p>
+## Technologies and Tools
+<p>Core:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,css,html,py"/>
+    <img src="https://skillicons.dev/icons?i=py,arduino,java,anaconda,eclipse,git,github,"/>
   </a>
 </div>
 
-<p>Exposed Languages & Libraries:</p>
+<p>Familiar:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,latex,matlab,mysql,octave,opencv,p5js,perl,sklearn,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=cpp,css,php,html,latex,perl,mysql,gitlab,replit,codepen"/>
   </a>
 </div>
 
-<p>Tools:</p>
+<p>Learning:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,atom,codepen,docker,eclipse,git,github,gitlab,powershell,replit,sublime"/>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,octave,powershell,docker"/>
   </a>
 </div>
 
