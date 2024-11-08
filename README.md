@@ -12,11 +12,12 @@
 
 ## My Background 
 -In my first year at Yangon Technological University (YTU), I helped build a Bluetooth-controlled car for a project show.
-- I've independently created various Arduino projects, including a smart home system, IoT temperature control with ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details are in my [**Arduino-Learning** repository](https://github.com/lawun330/Arduino-Learning) repository.
+- I've independently created various Arduino projects, including a smart home system, IoT temperature control with ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details are in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
-- In 2020, I switched from Arduino to Python, and you can follow my progress in my [**Basic-Python-Learning** repository](https://github.com/lawun330/Basic-Python-Learning) repository.
+- In 2020, I switched from Arduino to Python, and you can follow my progress in my [Basic-Python-Learning](https://github.com/lawun330/Basic-Python-Learning) repository.
 - In 2022, I enrolled in the BSc. program at the University of the People, majoring in Computer Science. Currently, I am involved in several projects and workshops as I strive to work with emerging technologies.
 - Since then, I've been delving into various fields of Computer Science including Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms.
+
 
 ## What I know
 <p>Most-used Languages & Libraries:</p>
