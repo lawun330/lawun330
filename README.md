@@ -4,20 +4,17 @@
 
 ## Introduction
 - ⭐ I aim to help people with latest technologies.
-- 🌱 I’m currently studying **General Computer Science and Basic Quantum Computing Concepts**.
-- 👯 I want to collaborate on community projects that involves **DS, ML, and QML**.
+- 🌱 I’m currently studying **B.Sc. CS** at the University of the People.
+- 👯 I want to volunteer in community projects that involves **Data Analysis | Data Science**.
 - 💬 I have experience in **Arduino and Python**.
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
 
 
 ## My Background 
-- In my first year at Yangon Technological University (YTU), I helped build a Bluetooth-controlled car for a project show.
 - I've independently created various Arduino projects, including a smart home system, IoT temperature control with ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details are in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
-- In 2020, I switched from Arduino to Python, and you can follow my progress in my [Basic-Python-Learning](https://github.com/lawun330/Basic-Python-Learning) repository.
-- In 2022, I enrolled in the BSc. program at the University of the People, majoring in Computer Science. Currently, I am involved in several projects and workshops as I strive to work with emerging technologies.
-- Since then, I've been delving into various fields of Computer Science including Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms.
-
+- I've been delving into various fields — Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms.
+- Currently, I am doing self-assigned projects and finishing my degree.
 
 ## Technologies and Tools
 <p>Core:</p>
@@ -43,6 +40,9 @@
 
 
 ## My Status
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lawun330&theme=discord)](https://github-profile-trophy.vercel.app/?username=lawun330)
+
 <table align="center">
   <tr>
     <td>
