@@ -1,20 +1,14 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
-<h3 align="center">An Undergraduate Exploring Different Fields of CS</h3>
-
 
 ## Introduction
 - ⭐ I aim to help people with latest technologies.
-- 🌱 I’m currently studying **B.Sc. CS** at the University of the People.
-- 👯 I want to volunteer in community projects that involves **Data Analysis | Data Science**.
-- 💬 I have experience in **Arduino and Python**.
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
 
 
 ## My Background 
 - I've independently created various Arduino projects, including a smart home system, IoT temperature control with ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details are in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
-- I've been delving into various fields — Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms.
-- Currently, I am doing self-assigned projects and finishing my degree.
+- I've been delving into various fields — Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms. You can see them in my repositories.
 
 ## Technologies and Tools
 <p>Core:</p>
