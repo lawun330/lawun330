@@ -56,12 +56,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://discord.com/">
-        <img src="https://skillicons.dev/icons?i=discord"/>
-        <p>@_kerosene_a</p>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://mail.google.com/">
         <img src="https://skillicons.dev/icons?i=gmail"/>
         <p>lawun330@gmail.com</p>
