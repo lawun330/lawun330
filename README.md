@@ -1,14 +1,14 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
 
 ## Introduction
-- ⭐ I aim to help people with latest technologies.
+- ⭐ I love to use the latest technologies to solve problems.
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
 
-
 ## My Background 
-- I've independently created various Arduino projects, including a smart home system, IoT temperature control with ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details are in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
+- My coding journey began with Arduino projects such as a smart home system, IoT-based temperature control using the ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details can be found in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
-- I've been delving into various fields — Front-end Development, Machine Learning, Reinforcement Learning, Data Science, and Quantum Algorithms. You can see them in my repositories.
+- I’ve been exploring various fields, including Front-end Development, Machine Learning, Reinforcement Learning, Data Structures, Algorithms, Information Retrieval, Classical AI, Data Science, and Quantum Algorithms. Related projects can be found in my repositories.
+- I'm currently focusing on deepening my knowledge in Quantum Computing, while continuing to build real-world projects that challenge and inspire me.
 
 ## Technologies and Tools
 <p>Core:</p>
