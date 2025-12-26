@@ -1,13 +1,16 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
 
 ## Introduction
-- ⭐ I love to use the latest technologies to solve problems.
+- ⭐ I love to use the latest technologies to solve problems, especially in the field of ML and Quantum Computing.
 - 📫 How to reach me: <u>lawun330@gmail.com</u>
 
 ## My Background 
 - My coding journey began with Arduino projects such as a smart home system, IoT-based temperature control using the ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details can be found in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
-- I’ve been exploring various fields, including Front-end Development, Machine Learning, Reinforcement Learning, Data Structures, Algorithms, Information Retrieval, Classical AI, Data Science, and Quantum Algorithms. Related projects can be found in my repositories.
+- During my undergraduate program, I have explored various fields, including Front-end Development, Machine Learning, Reinforcement Learning, Data Structures, Algorithms, Information Retrieval, Classical AI, Data Science, and Quantum Algorithms. These projects, along with my experiments in applying various algorithms and models, can be found in my repositories. Each project reflects my growing interest in data-driven solutions and computational problem-solving.
+
+## My Future Vision
+Looking ahead, I am eager to continue developing my skills in Machine Learning Engineering, with the hope that one day, I can work at the intersection of ML and Quantum Computing. I am excited by the idea of leveraging quantum algorithms to speed up and enhance ML processes, and I am committed to pursuing a career that combines these two powerful fields.
 
 ## Technologies and Tools
 <p>Core:</p>
