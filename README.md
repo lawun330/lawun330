@@ -8,7 +8,6 @@
 - My coding journey began with Arduino projects such as a smart home system, IoT-based temperature control using the ThingSpeak API, a door lock, a stopwatch, and a plant monitoring system. More details can be found in my [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) repository.
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
 - I’ve been exploring various fields, including Front-end Development, Machine Learning, Reinforcement Learning, Data Structures, Algorithms, Information Retrieval, Classical AI, Data Science, and Quantum Algorithms. Related projects can be found in my repositories.
-- I'm currently focusing on deepening my knowledge in Quantum Computing, while continuing to build real-world projects that challenge and inspire me.
 
 ## Technologies and Tools
 <p>Core:</p>
@@ -21,14 +20,14 @@
 <p>Familiar:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,php,html,latex,perl,mysql,gitlab,replit,codepen"/>
+    <img src="https://skillicons.dev/icons?i=cpp,css,php,html,latex,mysql,gitlab,replit,codepen"/>
   </a>
 </div>
 
 <p>Learning:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,octave,powershell,docker"/>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,octave,docker"/>
   </a>
 </div>
 
