@@ -1,61 +1,58 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
 
-## Introduction
-- ⭐ Aspiring to learn the latest technologies, especially in the field of ML and Quantum Computing, to solve real-world problems.
-- 📫 How to reach me: <u>lawun330@gmail.com</u>
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?label=Contact&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fla-wun-nannda-b047681b5%2F)
+![Static Badge](https://img.shields.io/badge/lawun330-red?label=Email&link=mailto:lawun330%40gmail.com)
+![](https://komarev.com/ghpvc/?username=lawun330&abbreviated=true&color=blueviolet)
+
+Willing to contribute my skills to support humanitarian causes.
 
 ## My Background 
-- My coding journey began with Arduino projects. Check [Arduino-Learning](https://github.com/lawun330/Arduino-Learning).
-- During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
-- During my undergraduate studies, I explored areas such as front-end development, machine learning, data science, algorithms, AI and quantum computing. My repositories showcase projects and experiments that reflect my growing interest in data-driven solutions and computational problem-solving.
+- My coding journey began with [Arduino-Learning](https://github.com/lawun330/Arduino-Learning).
+- During the COVID-19 pandemic, I developed the code for a "Refiller Robot" to donate to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
+- During my undergraduate studies, I explored areas such as front-end development, machine learning, data science, algorithms, AI and quantum computing.
 
 ## My Future Vision
-Looking ahead, I am eager to continue developing my skills in Machine Learning Engineering, with the hope that one day, I can work at the intersection of ML and Quantum Computing. I am excited by the idea of leveraging quantum algorithms to speed up and enhance ML processes, and I am committed to pursuing a career that combines these two powerful fields.
 
-## Technologies and Tools
-<p>Core:</p>
+I am developing skills in Machine Learning and Quantum Computing with the goal of working at their intersection. I’m particularly motivated by the potential of quantum algorithms to accelerate and enhance ML workflows. My repositories reflect ongoing projects and experiments focused on data-driven solutions and computational problem-solving.
+
+## Tools Used
+<p>Languages:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,arduino,anaconda"/>
+    <img src="https://skillicons.dev/icons?i=py,java,arduino,latex,cpp,react"/>
   </a>
 </div>
 
-<p>Familiar:</p>
+<p>Backend:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,latex,mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,redis,mysql,mongodb"/>
   </a>
 </div>
 
-<p>Learning:</p>
+<p>ML:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,docker"/>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
   </a>
 </div>
 
-
-## My Status
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lawun330&theme=discord)](https://github-profile-trophy.vercel.app/?username=lawun330)
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="195px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
-    </td>
-    <td>
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=compact"/>
-    </td>
-  </tr>
-</table>
+<p>Development:</p>
 <div align="center">
-      <img width="630px" src="https://github-readme-stats.vercel.app/api?username=lawun330&show_icons=true&theme=highcontrast"/>      
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,git,docker"/>
+  </a>
 </div>
 
+***
 
-## Connect Me
-<table align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=false&layout=compact&custom_title=Primary%20Languages&hide=Linear%20Programming,Sass,php,scss,processing,c,batchfile&card_width=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=false&layout=compact&custom_title=Other%20Languages&hide=Jupyter%20Notebook,python,c%2B%2B,java,html,javascript,shell,assembly,dockerfile,procfile&card_width=10)" />
+</p>
+
+<!-- <table align="center">
   <tr>
     <td align="center">
       <a href="https://mail.google.com/">
@@ -70,8 +67,7 @@ Looking ahead, I am eager to continue developing my skills in Machine Learning E
       </a>
     </td>
   </tr>
-</table>
-
+</table> -->
 <!--
 **lawun330/lawun330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
