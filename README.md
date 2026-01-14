@@ -1,9 +1,5 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
 
-## Introduction
-- ⭐ Aspiring to learn the latest technologies, especially in the field of ML and Quantum Computing, to solve real-world problems.
-- 📫 How to reach me: <u>lawun330@gmail.com</u>
-
 ## My Background 
 - My coding journey began with Arduino projects. Check [Arduino-Learning](https://github.com/lawun330/Arduino-Learning).
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
@@ -33,17 +29,6 @@ Looking ahead, I am eager to continue developing my skills in Machine Learning E
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,docker"/>
   </a>
 </div>
-
-
-## My Status
-
-<table align="center">
-  <tr>
-    <td>
-      <img height="195px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
-    </td>
-  </tr>
-</table>
 
 ## Connect Me
 <table align="center">
