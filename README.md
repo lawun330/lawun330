@@ -37,22 +37,13 @@ Looking ahead, I am eager to continue developing my skills in Machine Learning E
 
 ## My Status
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lawun330&theme=discord)](https://github-profile-trophy.vercel.app/?username=lawun330)
-
 <table align="center">
   <tr>
     <td>
       <img height="195px" src="https://leetcard.jacoblin.cool/lawun330?theme=wtf&font=Mandali&ext=activity"/>
     </td>
-    <td>
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&layout=compact"/>
-    </td>
   </tr>
 </table>
-<div align="center">
-      <img width="630px" src="https://github-readme-stats.vercel.app/api?username=lawun330&show_icons=true&theme=highcontrast"/>      
-</div>
-
 
 ## Connect Me
 <table align="center">
