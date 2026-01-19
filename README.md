@@ -8,25 +8,32 @@
 ## My Future Vision
 Looking ahead, I am eager to continue developing my skills in Machine Learning Engineering, with the hope that one day, I can work at the intersection of ML and Quantum Computing. I am excited by the idea of leveraging quantum algorithms to speed up and enhance ML processes, and I am committed to pursuing a career that combines these two powerful fields.
 
-## Technologies and Tools
-<p>Core:</p>
+## Tools Used
+<p>Languages:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,arduino,anaconda"/>
+    <img src="https://skillicons.dev/icons?i=py,java,arduino,latex,cpp,react"/>
   </a>
 </div>
 
-<p>Familiar:</p>
+<p>Backend:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,latex,mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,redis,mysql,mongodb"/>
   </a>
 </div>
 
-<p>Learning:</p>
+<p>ML:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,docker"/>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
+  </a>
+</div>
+
+<p>Development:</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,git,docker"/>
   </a>
 </div>
 
