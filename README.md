@@ -6,7 +6,7 @@
 - During my undergraduate studies, I explored areas such as front-end development, machine learning, data science, algorithms, AI and quantum computing. My repositories showcase projects and experiments that reflect my growing interest in data-driven solutions and computational problem-solving.
 
 ## My Future Vision
-Looking ahead, I am eager to continue developing my skills in Machine Learning Engineering, with the hope that one day, I can work at the intersection of ML and Quantum Computing. I am excited by the idea of leveraging quantum algorithms to speed up and enhance ML processes, and I am committed to pursuing a career that combines these two powerful fields.
+I am developing my skills in Machine Learning and Quantum Computing, with the hope that one day, I can work at the intersection of two. The idea of leveraging quantum algorithms to speed up and enhance ML processes is what makes me committed to pursuing a career that combines these two powerful fields.
 
 ## Tools Used
 <p>Languages:</p>
