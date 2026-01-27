@@ -1,5 +1,7 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
 
+![](https://komarev.com/ghpvc/?username=lawun330)
+
 ## My Background 
 - My coding journey began with Arduino projects. Check [Arduino-Learning](https://github.com/lawun330/Arduino-Learning).
 - During the COVID-19 pandemic, I developed the code for a "Refiller Robot" which was donated to Wai Bar Gi Hospital in Myanmar. The project, done with my LORA teammates at YTU, was featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q).
@@ -38,6 +40,13 @@ I am developing my skills in Machine Learning and Quantum Computing, with the ho
 </div>
 
 ## Connect Me
+
+![Static Badge](https://img.shields.io/badge/Contact-LinkedIn-blue?label=contact&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fla-wun-nannda-b047681b5%2F)
+![Static Badge](https://img.shields.io/badge/lawun330%40gmail.com-red?label=email&link=mailto:lawun330%40gmail.com)
+
+
+
+
 <table align="center">
   <tr>
     <td align="center">
@@ -55,6 +64,7 @@ I am developing my skills in Machine Learning and Quantum Computing, with the ho
   </tr>
 </table>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&hide=Linear%20Programming&langs_count=20&stats_format=bytes&hide_progress=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lawun330/lawun330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
