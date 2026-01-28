@@ -62,8 +62,8 @@ I am developing skills in Machine Learning and Quantum Computing. I am particula
 ## All Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=false&layout=compact&custom_title=Primary%20Languages&hide=Linear%20Programming,Sass,php,scss,processing,c,batchfile&card_width=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=false&layout=compact&custom_title=Other%20Languages&hide=Jupyter%20Notebook,python,c%2B%2B,java,html,javascript,shell,assembly,dockerfile,procfile&card_width=10)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=true&layout=compact&custom_title=Primary%20Languages&hide=Linear%20Programming,Sass,php,scss,processing,c,batchfile&card_width=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=true&layout=compact&custom_title=Other%20Languages&hide=Jupyter%20Notebook,python,c%2B%2B,java,html,javascript,shell,assembly,dockerfile,procfile&card_width=10)" />
 </p>
 
 <!-- <table align="center">
