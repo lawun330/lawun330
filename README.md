@@ -13,7 +13,7 @@
 
 ## Background
 
-- My journey began with [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) at 2019.
+- My journey began with [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) in 2018.
 - Developed software for a **Refiller Robot** with LORA teammates at YTU; donated to Wai Bar Gi Hospital, Myanmar, during COVID-19 at 2020.
   - Featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q) and Chinese-Myanmar Cultural Exchange.
 - During my undergraduate studies, I explored areas such as front-end development, machine learning, data science, algorithms, AI, ML, and quantum computing.
