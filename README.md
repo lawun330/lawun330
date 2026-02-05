@@ -5,7 +5,7 @@
 
   ![](https://komarev.com/ghpvc/?username=lawun330&abbreviated=true&color=blueviolet) 
   ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?label=Contact&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fla-wun-nannda-b047681b5%2F)
-  ![Static Badge](https://img.shields.io/badge/lawun330-red?label=Email&link=mailto:lawun330%40gmail.com)
+  ![Static Badge](https://img.shields.io/badge/lawun330@gmail.com-red?label=Email&link=mailto:lawun330%40gmail.com)
 
 </div>
 
