@@ -32,28 +32,42 @@ I am developing skills in Machine Learning and Quantum Computing. I am particula
 <p>Languages:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java,arduino,latex,cpp,reactjs,html,css,php"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java,arduino,latex,cpp,html,css,php"/>
   </a>
 </div>
 
-<p>Backend:</p>
+<p>Frameworks & Libraries:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=fastapi,redis,mysql,mongodb,amazonwebservices"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,fastapi"/>
+  </a>
+</div>
+
+<p>Backend Tools:</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=redis,mysql,mongodb"/>
   </a>
 </div>
 
 <p>ML:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=numpy,pandas,streamlit,tableau,scikitlearn,tensorflow,keras,pytorch"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=numpy,pandas,scikitlearn,tensorflow,keras,pytorch,streamlit,tableau"/>
   </a>
 </div>
 
-<p>Development:</p>
+<p>Cloud Providers:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=anaconda,gitbash,github,gitlab,githubcopilot,cursor,docker"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,railway,render,vercel"/>
+  </a>
+</div>
+
+<p>Dev Tools & DevOps:</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=anaconda,gitbash,github,gitlab,githubcopilot,cursor,docker,apachemaven"/>
   </a>
 </div>
 
