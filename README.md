@@ -32,7 +32,7 @@ I am developing skills in Machine Learning and Quantum Computing. I am particula
 <p>Languages:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java,arduino,latex,cpp,reactjs"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java,arduino,latex,cpp,reactjs,html,css,php"/>
   </a>
 </div>
 
