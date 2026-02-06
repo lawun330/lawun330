@@ -39,7 +39,7 @@ I am developing skills in Machine Learning and Quantum Computing. I am particula
 <p>Backend:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=fastapi,redis,mysql,mongodb,dynamodb,amazonwebservices"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=fastapi,redis,mysql,mongodb,amazonwebservices"/>
   </a>
 </div>
 
