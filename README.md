@@ -1,10 +1,9 @@
 <h1 align="center">Greetings 👋 from La Wun Nannda</h1>
-<h2 align="center"> Willing to contribute my skills to support humanitarian causes</h2>
 
 <div align="center">
-
+  
   ![](https://komarev.com/ghpvc/?username=lawun330&abbreviated=true&color=blueviolet) 
-  ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?label=Contact&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fla-wun-nannda-b047681b5%2F)
+  ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?label=Contact&link=https://www.linkedin.com/in/lawun330/)
   ![Static Badge](https://img.shields.io/badge/lawun330@gmail.com-red?label=Email&link=mailto:lawun330%40gmail.com)
 
 </div>
@@ -13,40 +12,46 @@
 
 ## Background
 
-- My journey began with [Arduino-Learning](https://github.com/lawun330/Arduino-Learning) in 2018.
-- Developed software for a **Refiller Robot** with LORA teammates at YTU; donated to Wai Bar Gi Hospital, Myanmar, during COVID-19 at 2020.
-  - Featured on [BBC News Myanmar](https://youtu.be/Vs6lDYDOak4?si=kkbzYx5g9wyoec0Q) and Chinese-Myanmar Cultural Exchange.
-- During my undergraduate studies, I explored areas such as front-end development, machine learning, data science, algorithms, AI, ML, and quantum computing.
-  - Relevant certificates are available on my [LinkedIn](https://www.linkedin.com/in/la-wun-nannda-b047681b5/) profile.
+I'm driven by curiosity and continuous exploration.
+
+- **2018**: Started coding with [Arduino-Learning](https://github.com/lawun330/Arduino-Learning)
+- **2019–2020**: Arduino, Python, Linux, IT automation, and web fundamentals
+- **2022–2025**: Full-stack development, IT support, information retrieval, data structures & algorithms, machine learning, AI, and introductory quantum computing
+- **2025**: Bachelor of Science in Computer Science | GPA: 3.88/4.0 | University of the People
+  - Certificates: See [Linkedin](https://www.linkedin.com/in/lawun330/)
+  - Projects: See [GitHub repositories](https://github.com/lawun330?tab=repositories)
 
 ***
 
 ## Current Goal
 
-I am developing skills in Machine Learning and Quantum Computing. I am particularly motivated by the potential of quantum algorithms to accelerate and enhance ML workflows. My repositories reflect ongoing projects and experiments focused on data-driven solutions and computational problem-solving.
+- **Skills**: NLP | ML | Quantum Computing (foundations)
+- **Focus**: Exploring quantum approaches for ML
+- **Work**: Full-stack applications with ML/NLP integration
+- **Goal**: Becoming a well-rounded AI engineer
 
 ***
 
-## Tools Used
+## Tools Used In Projects
 
 <p>Languages:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java,arduino,latex,cpp,html,css,php"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java,arduino,latex,cpp,html,css,php,javascript"/>
   </a>
 </div>
 
 <p>Frameworks & Libraries:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,fastapi"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,fastapi,nodejs"/>
   </a>
 </div>
 
 <p>Backend Tools:</p>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=redis,mysql,mongodb"/>
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=redis,mysql,mongodb,postgresql"/>
   </a>
 </div>
 
@@ -70,7 +75,7 @@ I am developing skills in Machine Learning and Quantum Computing. I am particula
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=anaconda,gitbash,github,gitlab,githubcopilot,cursor,docker,githubactions,apachemaven"/>
   </a>
 </div>
-
+<!--
 ***
 
 ## All Languages
@@ -79,6 +84,7 @@ I am developing skills in Machine Learning and Quantum Computing. I am particula
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=true&layout=compact&custom_title=Primary%20Languages&hide=Linear%20Programming,Sass,php,scss,processing,c,batchfile&card_width=10" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawun330&langs_count=10&hide_progress=true&layout=compact&custom_title=Other%20Languages&hide=Jupyter%20Notebook,python,c%2B%2B,java,html,javascript,shell,assembly,dockerfile,procfile&card_width=10)" />
 </p>
+-->
 
 <!-- <table align="center">
   <tr>
