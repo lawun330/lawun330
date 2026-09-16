@@ -12,68 +12,43 @@
 
 ## Background
 
-I'm driven by curiosity and continuous exploration.
+Started coding out of curiosity and gradually expanded into software development and AI.
 
-- **2018**: Started coding with [Arduino-Learning](https://github.com/lawun330/Arduino-Learning)
-- **2019–2020**: Arduino, Python, Linux, IT automation, and web fundamentals
-- **2022–2025**: Full-stack development, IT support, information retrieval, data structures & algorithms, machine learning, AI, and introductory quantum computing
-- **2025**: Bachelor of Science in Computer Science | GPA: 3.88/4.0 | University of the People
-  - Certificates: See [Linkedin](https://www.linkedin.com/in/lawun330/)
-  - Projects: See [GitHub repositories](https://github.com/lawun330?tab=repositories)
+- **2018**: Started programming with Arduino
+- **2019–2020**: Expanded into robotics, machine learning, Python, Linux, IT automation, and web fundamentals
+- **2022–2025**: BSc. in Computer Science | GPA: 3.88/4.0 | University of the People
+- **2026**: SWE internships, QIntern 2026, backend development
 
 ***
 
-## Current Goal
+## Current Direction
 
-- **Skills**: NLP | ML | Quantum Computing (foundations)
-- **Focus**: Exploring quantum approaches for ML
-- **Work**: Full-stack applications with ML/NLP integration
-- **Goal**: Becoming a well-rounded AI engineer
+- **Focus**: Machine Learning | Quantum Computing
+- **Engineering**: Full-stack development with ML/AI integration
+- **Long-term**: Build deep expertise across software engineering, AI/ML, and quantum computing, with a focus on technologies still at the frontier
 
 ***
 
 ## Tools Used In Projects
 
-<p>Languages:</p>
+<p>Full Stack Development:</p>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,java,arduino,latex,cpp,html,css,php,javascript"/>
-  </a>
+  <img src="https://skills.syvixor.com/api/icons?i=python,typescript,reactjs,nodejs,nestjs,swagger,mongodb,postgresql,redis,amazons3,pnpm,vite,eslint,prettier,docker,githubactions&perline=8&radius=85" alt="Skill Icons" />
 </div>
 
-<p>Frameworks & Libraries:</p>
+<p>Web Services:</p>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,fastapi,nodejs"/>
-  </a>
+  <img src="https://skills.syvixor.com/api/icons?i=amazonwebservices,railway,render,vercel,streamlit&perline=15&radius=85" alt="Skill Icons" />
 </div>
 
-<p>Backend Tools:</p>
+<p>Machine Learning:</p>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=redis,mysql,mongodb,postgresql"/>
-  </a>
+  <img src="https://skills.syvixor.com/api/icons?i=anaconda,python,numpy,pandas,scikitlearn,scipy,matplotlib,seaborn,tensorflow,keras,pytorch,tableau,kaggle,googlecolaboratory,mlflow,fastapi&perline=8&radius=85" alt="Skill Icons" />
 </div>
 
-<p>ML:</p>
+<p>Others:</p>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=numpy,pandas,scikitlearn,tensorflow,keras,pytorch,streamlit,tableau"/>
-  </a>
-</div>
-
-<p>Cloud Providers:</p>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=amazonwebservices,railway,render,vercel"/>
-  </a>
-</div>
-
-<p>Dev Tools & DevOps:</p>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=anaconda,gitbash,github,gitlab,githubcopilot,cursor,docker,githubactions,apachemaven"/>
-  </a>
+  <img src="https://skills.syvixor.com/api/icons?i=arduino,latex,overleaf,java,ubuntu,popos&perline=15&radius=85" alt="Skill Icons" />
 </div>
 <!--
 ***
