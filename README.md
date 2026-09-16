@@ -43,7 +43,7 @@ Started coding out of curiosity and gradually expanded into software development
 
 <p>Machine Learning:</p>
 <div align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=anaconda,python,numpy,pandas,scikitlearn,scipy,matplotlib,seaborn,tensorflow,keras,pytorch,tableau,kaggle,googlecolaboratory,mlflow,fastapi&perline=8&radius=85" alt="Skill Icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=anaconda,python,numpy,pandas,scikitlearn,scipy,matplotlib,seaborn,tensorflow,keras,pytorch,kaggle,googlecolaboratory,huggingface,mlflow,fastapi&perline=8&radius=85" alt="Skill Icons" />
 </div>
 
 <p>Others:</p>
